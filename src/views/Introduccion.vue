@@ -23,7 +23,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/5sAgi467WMo?si=RpwCV1RRBavrHGm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video. Implementación de pruebas y mejora del software
+            figcaption Video. Implementación de pruebas y mejora del software
 
 
 </template>
